@@ -321,22 +321,18 @@ li.foto-4_examples {
 .team-description {
     margin: 0;
     padding-top: 50px;
-    
 }
 .team-description h2 {
     text-align: center;
     text-transform: uppercase;
     margin-bottom: 40px;
     margin-top: 0;
-  
 }
 .team-photos {
     display: flex;
     margin-left: 181px;
     margin-bottom: 35px;
-   
-    flex-wrap: wrap;
-    
+    flex-wrap: wrap;   
 }
 figure {
     justify-content: space-between;
